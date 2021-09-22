@@ -1,1 +1,1 @@
-# slider-ecommerce
+# restaurant static website 
